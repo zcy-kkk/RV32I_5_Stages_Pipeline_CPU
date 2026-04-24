@@ -1,4 +1,3 @@
-# 编译与波形文件
 *.vcd
 *.gtkw
 *.o
@@ -6,12 +5,10 @@
 *.bin
 *.out
 
-# Yosys 与画图生成的中间产物
 *.svg
 *.dot
 *.json
 
-# 临时与日志文件
 *.log
 *.jou
 .DS_Store
